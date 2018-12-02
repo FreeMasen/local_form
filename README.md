@@ -13,3 +13,6 @@ order but each row will always match the headers.
 If the form has changed, it is important that you move or re-move the `form-entries.csv` file
 if not you may lose some form data.
 
+On the [releases](https://github.com/FreeMasen/local_form/releases) page you can find a binary
+for Linux, MaxOS, and Windows. The most recent version will be at the top of the page, it is best
+to use that.
